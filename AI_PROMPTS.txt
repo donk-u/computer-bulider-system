@@ -1,0 +1,237 @@
+# AI 图标生成提示词集合
+# 复制这些提示词到 AI 图标生成工具中批量生成
+
+# ========================================
+# 硬件组件图标 (128×128px)
+# ========================================
+
+# CPU 图标
+Create a 128x128 pixel icon for computer CPU processor, square chip with multiple pins on bottom, metallic silver color with blue accent (#3B82F6), minimalist flat design, transparent background, modern tech style, clean lines
+
+Create a 128x128 pixel icon for Intel LGA1700 CPU processor, square chip with grid pattern, metallic silver and blue color scheme (#3B82F6), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for AMD AM4 CPU processor, square chip with AM4 socket pattern, metallic silver and red accent (#EF4444), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for AMD AM5 CPU processor, square chip with AM5 socket pattern, metallic silver and orange accent (#F59E0B), minimalist flat design, transparent background, modern tech style
+
+# GPU 图标
+Create a 128x128 pixel icon for graphics card GPU, rectangular card with fan blades, dark grey with green LED accent (#10B981), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for Nvidia graphics card, rectangular card with Nvidia green branding (#76B900), minimalist flat design, transparent background, modern gaming style
+
+Create a 128x128 pixel icon for AMD graphics card, rectangular card with AMD red branding (#ED1C24), minimalist flat design, transparent background, modern gaming style
+
+# 主板图标
+Create a 128x128 pixel icon for computer motherboard, circuit board with various components, dark green PCB (#2D5A3D) with silver traces, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for Z790 motherboard, premium circuit board with gold capacitors, dark green PCB (#2D5A3D) with gold accents, minimalist flat design, transparent background, high-end tech style
+
+Create a 128x128 pixel icon for B660 motherboard, mid-range circuit board with components, dark green PCB (#2D5A3D) with silver accents, minimalist flat design, transparent background, modern tech style
+
+# 内存图标
+Create a 128x128 pixel icon for RAM memory stick, rectangular module with chips, silver and purple color scheme (#6366F1), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for DDR4 memory stick, rectangular module with heat spreader, silver and blue color scheme (#3B82F6), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for DDR5 memory stick, rectangular module with advanced heat spreader, silver and cyan color scheme (#06B6D4), minimalist flat design, transparent background, modern tech style
+
+# 存储图标
+Create a 128x128 pixel icon for computer storage device, 2.5 inch drive shape, metallic grey and blue (#3B82F6), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for SSD solid state drive, rectangular M.2 form factor, green PCB (#2D5A3D) with chips, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for HDD hard disk drive, 3.5 inch drive shape, metallic grey with platter visible, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for NVMe SSD stick, M.2 form factor, green PCB (#2D5A3D) with advanced chips, minimalist flat design, transparent background, modern tech style
+
+# 电源图标
+Create a 128x128 pixel icon for computer power supply unit, box shape with ventilation holes, black and yellow (#F59E0B) color scheme, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for 550W power supply, compact box with power symbol, black and orange (#F59E0B) color scheme, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for 750W power supply, larger box with gold efficiency rating, black and gold (#FFD700) color scheme, minimalist flat design, transparent background, premium tech style
+
+# 机箱图标
+Create a 128x128 pixel icon for computer case, ATX tower shape with side window, black with RGB lighting accents, minimalist flat design, transparent background, modern gaming style
+
+Create a 128x128 pixel icon for ATX full tower case, large tower with multiple fans, black and blue (#3B82F6) color scheme, minimalist flat design, transparent background, modern gaming style
+
+Create a 128x128 pixel icon for micro-ATX case, compact tower, black and purple (#6366F1) color scheme, minimalist flat design, transparent background, modern compact style
+
+# 散热图标
+Create a 128x128 pixel icon for CPU cooler, heatsink with fan, aluminum fins and blue fan (#3B82F6), minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for air cooler, aluminum heatsink with large fan, silver and blue (#3B82F6) color scheme, minimalist flat design, transparent background, modern tech style
+
+Create a 128x128 pixel icon for liquid water cooler, radiator with tubes and pump block, black and blue (#3B82F6) color scheme, minimalist flat design, transparent background, premium gaming style
+
+# ========================================
+# UI交互图标 (48×48px)
+# ========================================
+
+# 导航图标
+Create a 48x48 pixel icon for back navigation, left arrow pointing left, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for home navigation, simple house shape, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for forward navigation, right arrow pointing right, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 操作图标
+Create a 48x48 pixel icon for close action, X mark, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for more options, three horizontal dots, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for menu hamburger, three horizontal lines, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for refresh action, circular arrows, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 搜索与筛选
+Create a 48x48 pixel icon for search, magnifying glass, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for filter, funnel shape, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for sort, up and down arrows, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for clear input, X in circle, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+# 编辑操作
+Create a 48x48 pixel icon for edit action, pencil, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for delete action, trash can, solid fill, red color (#EF4444), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for copy action, two documents, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for paste action, clipboard with document, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for save action, floppy disk or save symbol, solid fill, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+# 文件操作
+Create a 48x48 pixel icon for upload action, arrow pointing up from box, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for download action, arrow pointing down to box, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for image file, picture frame, solid fill, purple color (#6366F1), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for generic file, document shape, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+# 确认操作
+Create a 48x48 pixel icon for confirm action, check mark, solid fill, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for cancel action, X mark, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for check box, square with check, outline style, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for cross close, X mark, outline style, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+# 其他UI图标
+Create a 48x48 pixel icon for settings, gear or cog, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for help, question mark, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for info, letter i in circle, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for arrow down, chevron pointing down, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for arrow up, chevron pointing up, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+# ========================================
+# 社交互动图标 (48×48px)
+# ========================================
+
+# 点赞图标
+Create a 48x48 pixel icon for like button, heart outline, stroke style 2px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for like button active state, filled heart, solid fill, red color (#FF4D4F), minimalist flat design, transparent background, modern clean style
+
+# 收藏图标
+Create a 48x48 pixel icon for save button, bookmark outline, stroke style 2px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for save button active state, filled bookmark, solid fill, orange color (#FAAD14), minimalist flat design, transparent background, modern clean style
+
+# 星标图标
+Create a 48x48 pixel icon for star button, star outline, stroke style 2px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for star button active state, filled star, solid fill, yellow color (#FFD700), minimalist flat design, transparent background, modern clean style
+
+# 评论与分享
+Create a 48x48 pixel icon for comment button, speech bubble, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for reply action, speech bubble with arrow, solid fill, gray color (#6B7280), minimalist flat design, transparent background, modern clean style
+
+Create a 48x48 pixel icon for share action, share arrow, solid fill, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+# ========================================
+# 状态图标 (64×64px)
+# ========================================
+
+# 成功状态
+Create a 64x64 pixel icon for success state, check mark, solid fill, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for success state circle, check mark in filled circle, green color (#10B981), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for check success, check mark in outlined circle, green stroke color (#10B981), minimalist flat design, transparent background, modern clean style
+
+# 错误状态
+Create a 64x64 pixel icon for error state, X mark, solid fill, red color (#EF4444), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for error state circle, X mark in filled circle, red color (#EF4444), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for close error, X mark in outlined circle, red stroke color (#EF4444), minimalist flat design, transparent background, modern clean style
+
+# 警告状态
+Create a 64x64 pixel icon for warning state, exclamation mark, solid fill, orange color (#F59E0B), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for warning state circle, exclamation mark in filled circle, orange color (#F59E0B), minimalist flat design, transparent background, modern clean style
+
+# 信息状态
+Create a 64x64 pixel icon for info state, letter i, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for info state circle, letter i in filled circle, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 加载状态
+Create a 64x64 pixel icon for loading state, circular spinner, stroke style 3px, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for loading state circle, circular progress ring, stroke style 3px, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 空状态
+Create a 64x64 pixel icon for empty state, empty folder, solid fill, gray color (#D1D5DB), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for no data state, document with X, solid fill, gray color (#D1D5DB), minimalist flat design, transparent background, modern clean style
+
+Create a 64x64 pixel icon for no result state, magnifying glass with question, solid fill, gray color (#D1D5DB), minimalist flat design, transparent background, modern clean style
+
+# ========================================
+# TabBar导航图标 (81×81px)
+# ========================================
+
+# 首页
+Create a 81x81 pixel icon for home tab, house outline, stroke style 2.5px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 81x81 pixel icon for home tab active, filled house, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 装机
+Create a 81x81 pixel icon for builder tab, computer case outline, stroke style 2.5px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 81x81 pixel icon for builder tab active, filled computer case, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 社区
+Create a 81x81 pixel icon for community tab, users group outline, stroke style 2.5px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 81x81 pixel icon for community tab active, filled users group, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# 我的
+Create a 81x81 pixel icon for profile tab, user avatar outline, stroke style 2.5px, gray color (#999999), minimalist flat design, transparent background, modern clean style
+
+Create a 81x81 pixel icon for profile tab active, filled user avatar, solid fill, blue color (#3B82F6), minimalist flat design, transparent background, modern clean style
+
+# ========================================
+# 占位图 (400×400px)
+# ========================================
+
+Create a 400x400 pixel placeholder image for computer component, simple geometric shape, light gray background (#F3F4F6) with dark gray icon (#6B7280), minimalist flat design, centered content, with text "Component"
+
+Create a 400x400 pixel placeholder image for PC build, computer tower shape, light gray background (#F3F4F6) with dark gray icon (#6B7280), minimalist flat design, centered content, with text "Build"
+
+Create a 400x400 pixel placeholder image for user avatar, circle with user silhouette, light gray background (#F3F4F6) with dark gray icon (#6B7280), minimalist flat design, centered content, with text "User"
+
+Create a 400x400 pixel placeholder image for post content, document shape, light gray background (#F3F4F6) with dark gray icon (#6B7280), minimalist flat design, centered content, with text "Post"
